@@ -1,0 +1,2 @@
+o repositorio é onde vai ser armazenada o historico dos codigos.
+a pasta .git vai ser a responsavel por guardar as informações do nosso repositorio LOCAL.
