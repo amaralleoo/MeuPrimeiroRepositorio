@@ -1,2 +1,3 @@
 o repositorio é onde vai ser armazenada o historico dos codigos.
 a pasta .git vai ser a responsavel por guardar as informações do nosso repositorio LOCAL.
+git add serve para adicionar o arquivo na área de staging, para mandar o que esta na staging para o repositorio git pe necessario fazer um git.
