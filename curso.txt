@@ -5,3 +5,9 @@ git add serve para adicionar o arquivo na área de staging, para mandar o que es
 git diff serve para comparar as mudanças entre um commit e outro, atraves dos id´s desses commits.
 
 testando conectar git com github
+
+git push origin master
+push: empurrar (enviar as alterações do seu repositorio para o repositorio remoto no caso o github)
+
+git pull origin master
+pull: puxar (pegar as alterações do repositorio remoto e trazer para o seu repositorio)
